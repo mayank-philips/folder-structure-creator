@@ -33,5 +33,3 @@ This Python script allows you to create a custom folder structure interactively.
 ## Requirements
 - Python 3.x or later.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
